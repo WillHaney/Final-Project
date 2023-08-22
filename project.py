@@ -1,8 +1,3 @@
-# project.py
-# William Haney & Dax Cordero
-# 08/08/2023
-# willhaney@tamu.edu & dax2cordero@tamu.edu
-
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
